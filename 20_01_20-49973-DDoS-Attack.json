@@ -1,0 +1,375 @@
+ip route add blackhole 113.125.82.11/32
+ip route add blackhole 54.66.183.45/32
+ip route add blackhole 147.50.205.2/32
+ip -6 route add blackhole 2a07:5741:0:1442:2029:1962:d948:6aad/128
+ip -6 route add blackhole 2a07:5741:0:99d:59e6:ed05:a091:7648/128
+ip route add blackhole 200.82.238.28/32
+ip -6 route add blackhole 2a07:5741:0:c3a:247d:5cc4:3f23:5507/128
+ip route add blackhole 185.220.102.240/32
+ip route add blackhole 183.164.242.247/32
+ip route add blackhole 15.152.32.228/32
+ip route add blackhole 181.129.208.27/32
+ip -6 route add blackhole 2a02:c206:2079:8668:914b:da7f:2a9c:aad5/128
+ip route add blackhole 200.50.203.161/32
+ip -6 route add blackhole 2a07:5741:0:112f:41bc:2f17:577c:dda5/128
+ip route add blackhole 61.0.169.163/32
+ip -6 route add blackhole 2a02:c206:2079:8668:1a99:8485:59db:3241/128
+ip -6 route add blackhole 2a07:5741:0:150f:6a07:5711:b859:3e19/128
+ip -6 route add blackhole 2a07:5741:0:150f:4e38:58ed:560d:eb82/128
+ip route add blackhole 181.114.227.129/32
+ip route add blackhole 175.184.234.19/32
+ip -6 route add blackhole 2a07:5741:0:cea:32b1:1699:2702:8b9e/128
+ip route add blackhole 209.127.136.74/32
+ip -6 route add blackhole 2a02:c206:2079:8668:19c6:cbce:d1cf:5da3/128
+ip route add blackhole 38.156.238.28/32
+ip route add blackhole 75.117.15.162/32
+ip route add blackhole 103.164.99.58/32
+ip route add blackhole 183.164.243.183/32
+ip route add blackhole 103.243.114.206/32
+ip route add blackhole 209.127.148.17/32
+ip route add blackhole 209.127.148.70/32
+ip route add blackhole 133.202.71.233/32
+ip route add blackhole 110.165.20.122/32
+ip route add blackhole 103.129.92.139/32
+ip route add blackhole 38.15.136.18/32
+ip -6 route add blackhole 2a02:c206:2079:8668:e61b:f38:cabc:7ae4/128
+ip -6 route add blackhole 2a02:c206:2079:8668:718b:be0f:c059:d1fa/128
+ip route add blackhole 202.94.164.190/32
+ip route add blackhole 177.73.68.150/32
+ip -6 route add blackhole 2a07:5741:0:77a:7287:68ea:231d:f0b2/128
+ip -6 route add blackhole 2a07:5741:0:14fb:1154:ab92:596:5086/128
+ip route add blackhole 120.28.189.7/32
+ip route add blackhole 161.49.91.13/32
+ip route add blackhole 183.164.243.73/32
+ip route add blackhole 36.94.30.238/32
+ip -6 route add blackhole 2a07:5741:0:1442:1cac:d728:2cda:88fc/128
+ip -6 route add blackhole 2a02:c206:2079:8668:dd2a:9d7d:c71f:f896/128
+ip route add blackhole 181.110.188.239/32
+ip route add blackhole 36.91.60.5/32
+ip route add blackhole 109.70.189.70/32
+ip route add blackhole 5.28.35.226/32
+ip route add blackhole 172.187.178.207/32
+ip route add blackhole 154.202.116.83/32
+ip -6 route add blackhole 2a02:c206:2079:8668:aaa6:cb28:726:3d35/128
+ip route add blackhole 103.152.232.194/32
+ip route add blackhole 200.106.184.14/32
+ip route add blackhole 103.144.170.162/32
+ip route add blackhole 13.230.86.94/32
+ip route add blackhole 45.224.119.178/32
+ip route add blackhole 23.95.201.22/32
+ip -6 route add blackhole 2a07:5741:0:144a:ea57:5235:bfba:bd89/128
+ip -6 route add blackhole 2a02:c206:2079:8668:2ee8:f8f:743:56d1/128
+ip route add blackhole 123.182.59.136/32
+ip route add blackhole 192.42.116.191/32
+ip -6 route add blackhole 2a02:c206:2079:8668:3579:7c71:ce5f:54c5/128
+ip route add blackhole 103.101.109.67/32
+ip -6 route add blackhole 2a02:c206:2079:8668:85e0:c12d:880b:3f12/128
+ip -6 route add blackhole 2a02:c206:2079:8668:44ec:3ea5:89f5:ed3f/128
+ip route add blackhole 23.95.183.74/32
+ip route add blackhole 102.220.121.56/32
+ip -6 route add blackhole 2a02:c206:2079:8668:614b:8813:8a91:1853/128
+ip route add blackhole 185.53.76.74/32
+ip route add blackhole 123.182.59.65/32
+ip -6 route add blackhole 2a02:c206:2079:8668:a12b:e271:d730:5912/128
+ip -6 route add blackhole 2a02:c206:2079:8668:c240:6f60:6b36:33f5/128
+ip route add blackhole 18.231.27.188/32
+ip route add blackhole 190.119.86.67/32
+ip route add blackhole 13.39.22.219/32
+ip -6 route add blackhole 2001:470:c114:142c::142c/128
+ip -6 route add blackhole 2a07:5741:0:7ca:55e8:9906:f960:c859/128
+ip route add blackhole 166.88.122.174/32
+ip route add blackhole 23.229.61.57/32
+ip route add blackhole 102.68.128.207/32
+ip -6 route add blackhole 2a02:c206:2079:8668:776f:c539:3c60:d0de/128
+ip -6 route add blackhole 2a02:c206:2079:8668:23f7:ccba:1a20:36d4/128
+ip route add blackhole 189.50.138.220/32
+ip -6 route add blackhole 2a02:c206:2079:8668:c0a0:54e2:350d:7fe2/128
+ip route add blackhole 191.102.254.50/32
+ip route add blackhole 177.234.210.62/32
+ip route add blackhole 103.147.246.43/32
+ip -6 route add blackhole 2a07:5741:0:1442:f55:c10a:5039:59a0/128
+ip route add blackhole 177.130.104.134/32
+ip route add blackhole 13.40.130.43/32
+ip route add blackhole 187.216.229.150/32
+ip route add blackhole 18.221.40.177/32
+ip route add blackhole 36.6.144.58/32
+ip route add blackhole 103.87.68.125/32
+ip -6 route add blackhole 2a02:c206:2079:8668:dd55:6aae:d805:be19/128
+ip route add blackhole 124.121.104.17/32
+ip route add blackhole 54.190.37.90/32
+ip route add blackhole 181.174.228.10/32
+ip route add blackhole 154.201.44.137/32
+ip route add blackhole 103.245.17.86/32
+ip -6 route add blackhole 2a07:5741:0:1442:4aba:7e2:31af:4cbb/128
+ip route add blackhole 203.147.19.10/32
+ip -6 route add blackhole 2a07:5741:0:1287:59f4:c60f:d2eb:9c45/128
+ip route add blackhole 177.67.240.97/32
+ip route add blackhole 212.95.180.50/32
+ip route add blackhole 203.112.223.126/32
+ip route add blackhole 213.226.11.149/32
+ip route add blackhole 15.152.113.238/32
+ip route add blackhole 36.6.145.168/32
+ip -6 route add blackhole 2a07:5741:0:1442:5bd:54fe:1964:81f0/128
+ip route add blackhole 103.46.8.35/32
+ip route add blackhole 144.49.99.175/32
+ip -6 route add blackhole 2a07:5741:0:13fb:98a4:e98b:26d8:4d2b/128
+ip route add blackhole 209.127.76.130/32
+ip -6 route add blackhole 2a02:c206:2079:8668:8ded:4acf:2d1d:6fa6/128
+ip -6 route add blackhole 2a02:c206:2079:8668:7fc8:708c:ca8:46f5/128
+ip route add blackhole 179.49.237.101/32
+ip -6 route add blackhole 2a02:c206:2079:8668:d9c1:d1fc:c78d:3db1/128
+ip route add blackhole 117.57.93.6/32
+ip -6 route add blackhole 2a02:c206:2079:8668:150b:2c56:89fc:dd1b/128
+ip -6 route add blackhole 2a07:5741:0:127e:3979:8d3f:d524:57a7/128
+ip route add blackhole 104.227.49.196/32
+ip -6 route add blackhole 2a07:5741:0:d28:b91f:163f:2eab:b5b5/128
+ip route add blackhole 155.93.96.210/32
+ip -6 route add blackhole 2a02:c206:2079:8668:9c61:4a:7130:d327/128
+ip route add blackhole 202.65.173.39/32
+ip -6 route add blackhole 2a02:c206:2079:8668:b545:de84:e270:eaf9/128
+ip route add blackhole 36.6.144.13/32
+ip route add blackhole 103.175.156.142/32
+ip route add blackhole 35.180.97.113/32
+ip -6 route add blackhole 2a02:c206:2079:8668:7447:25f5:499c:7015/128
+ip -6 route add blackhole 2001:470:c:b6e::2/128
+ip route add blackhole 180.191.40.73/32
+ip -6 route add blackhole 2a07:5741:0:1515:8b4a:2d1e:22b1:5c9c/128
+ip -6 route add blackhole 2a02:c206:2079:8668:80ed:72aa:b572:7734/128
+ip -6 route add blackhole 2a07:5741:0:1444:ef33:e930:25b:61eb/128
+ip route add blackhole 85.221.242.106/32
+ip -6 route add blackhole 2a02:c206:2079:8668:b87a:b959:c11d:2ba/128
+ip -6 route add blackhole 2a02:c206:2079:8668:c74:8ffa:4938:8ff9/128
+ip -6 route add blackhole 2a07:5741:0:1442:2bf7:39ec:b9ab:6c0d/128
+ip route add blackhole 23.95.69.141/32
+ip -6 route add blackhole 2a02:c206:2079:8668:a531:e418:7734:12d1/128
+ip -6 route add blackhole 2a07:5741:0:619:b3f:bc95:df67:e96d/128
+ip route add blackhole 23.236.188.23/32
+ip route add blackhole 103.137.91.250/32
+ip -6 route add blackhole 2a07:5741:0:150f:6874:697:c5e6:4a6e/128
+ip -6 route add blackhole 2a10:17c7:ffe6:f772:9f4e:a8b5:d5f6:541e/128
+ip route add blackhole 114.103.89.73/32
+ip -6 route add blackhole 2a07:5741:0:150f:6fd:b83e:1082:1564/128
+ip -6 route add blackhole 2a07:5741:0:150f:196e:7472:a9c8:5ac3/128
+ip route add blackhole 45.174.79.1/32
+ip -6 route add blackhole 2a02:c206:2079:8668:5f11:cc6c:6350:7008/128
+ip -6 route add blackhole 2a07:5741:0:15ba:2856:acd1:b48:200e/128
+ip route add blackhole 176.98.234.124/32
+ip -6 route add blackhole 2a02:c206:2079:8668:ba72:1206:8b34:d286/128
+ip route add blackhole 80.78.68.87/32
+ip -6 route add blackhole 2a03:4000:6:b476:b8d8:8eff:feb9:bcf6/128
+ip route add blackhole 18.157.159.109/32
+ip -6 route add blackhole 2001:470:581a:4971:c1d9:bcb9:2b0d:ae2d/128
+ip route add blackhole 187.63.157.56/32
+ip route add blackhole 123.182.58.112/32
+ip -6 route add blackhole 2a02:c206:2079:8668:8af2:9a3f:8e8f:b975/128
+ip -6 route add blackhole 2a07:5741:0:150f:dc52:418e:5704:c14c/128
+ip route add blackhole 122.3.41.154/32
+ip route add blackhole 103.148.25.223/32
+ip -6 route add blackhole 2a02:c206:2079:8668:8380:18e4:5b73:f2d0/128
+ip route add blackhole 89.17.60.34/32
+ip -6 route add blackhole 2a07:5741:0:7c6:1d1e:7433:dee4:db10/128
+ip route add blackhole 185.220.101.35/32
+ip route add blackhole 192.177.186.220/32
+ip route add blackhole 103.158.253.124/32
+ip -6 route add blackhole 2a02:c206:2079:8668:ffbc:9ae7:820c:efd2/128
+ip route add blackhole 117.69.236.164/32
+ip -6 route add blackhole 2a02:c206:2079:8668:f194:c093:a647:19c2/128
+ip -6 route add blackhole 2a07:5741:0:1442:e9d9:7630:9e01:b805/128
+ip route add blackhole 3.35.197.226/32
+ip route add blackhole 101.99.12.156/32
+ip route add blackhole 58.143.82.102/32
+ip route add blackhole 138.118.38.68/32
+ip route add blackhole 125.213.216.202/32
+ip route add blackhole 111.225.152.125/32
+ip -6 route add blackhole 2a02:c206:2079:8668:5265:5cdb:82e7:912b/128
+ip route add blackhole 144.49.99.176/32
+ip -6 route add blackhole 2a02:c206:2079:8668:7c7f:7001:e16b:bcb7/128
+ip -6 route add blackhole 2a02:c206:2079:8668:e8c3:35b6:3542:1b7f/128
+ip route add blackhole 123.182.59.235/32
+ip -6 route add blackhole 2a07:5741:0:1280:3937:d0f:aadc:1641/128
+ip route add blackhole 103.16.226.10/32
+ip route add blackhole 105.112.130.186/32
+ip route add blackhole 191.239.246.234/32
+ip route add blackhole 177.154.161.178/32
+ip route add blackhole 36.6.145.120/32
+ip route add blackhole 156.227.14.254/32
+ip route add blackhole 15.152.155.187/32
+ip route add blackhole 187.61.92.18/32
+ip -6 route add blackhole 2a07:5741:0:1442:f8be:eb87:18f:a2cc/128
+ip route add blackhole 3.36.101.119/32
+ip route add blackhole 192.177.188.207/32
+ip route add blackhole 154.201.47.53/32
+ip -6 route add blackhole 2a02:c206:2079:8668:421d:162b:28d4:1e4/128
+ip -6 route add blackhole 2a02:c206:2079:8668:84f6:64f:4f57:615d/128
+ip route add blackhole 123.182.58.121/32
+ip route add blackhole 36.224.210.162/32
+ip route add blackhole 103.148.77.215/32
+ip route add blackhole 58.147.186.214/32
+ip -6 route add blackhole 2a02:c206:2079:8668:df8d:fa9:84e6:d1da/128
+ip -6 route add blackhole 2a07:5741:0:150f:3f03:812a:e504:d4f0/128
+ip route add blackhole 23.95.69.225/32
+ip route add blackhole 209.127.76.101/32
+ip route add blackhole 123.182.58.81/32
+ip -6 route add blackhole 2a02:c206:2079:8668:c0c1:2b24:c475:79e3/128
+ip -6 route add blackhole 2a07:5741:0:c7d:e943:9333:efed:4f77/128
+ip -6 route add blackhole 2a02:c206:2079:8668:8d45:b661:33c9:1795/128
+ip -6 route add blackhole 2a02:c206:2079:8668:e95b:47c:d285:dfd5/128
+ip route add blackhole 209.127.136.47/32
+ip route add blackhole 192.177.186.148/32
+ip route add blackhole 98.23.93.91/32
+ip -6 route add blackhole 2001:470:c441:13fc::13fc/128
+ip -6 route add blackhole 2a07:5741:0:1442:3f94:e89e:5aaa:6dff/128
+ip -6 route add blackhole 2a02:c206:2079:8668:919f:7e1e:1ef2:ef06/128
+ip route add blackhole 85.234.126.107/32
+ip -6 route add blackhole 2a02:c206:2079:8668:d3b1:f3ec:c3e2:7e36/128
+ip route add blackhole 117.71.155.22/32
+ip route add blackhole 114.231.82.71/32
+ip route add blackhole 103.145.145.8/32
+ip route add blackhole 103.250.68.10/32
+ip route add blackhole 103.176.227.212/32
+ip route add blackhole 152.174.199.101/32
+ip -6 route add blackhole 2a07:5741:0:819:456a:b040:669:74b0/128
+ip route add blackhole 104.227.112.226/32
+ip route add blackhole 118.172.248.77/32
+ip route add blackhole 15.152.41.143/32
+ip route add blackhole 202.57.30.66/32
+ip -6 route add blackhole 2a02:c206:2079:8668:3ec6:c382:c04b:e048/128
+ip route add blackhole 197.155.230.206/32
+ip route add blackhole 73.42.117.74/32
+ip route add blackhole 193.41.88.58/32
+ip route add blackhole 103.199.86.46/32
+ip route add blackhole 154.201.45.122/32
+ip -6 route add blackhole 2a07:5741:0:1442:9d1a:3e21:6e68:fba8/128
+ip -6 route add blackhole 2a07:5741:0:13fb:e859:37e5:13bc:22b/128
+ip route add blackhole 187.132.11.130/32
+ip -6 route add blackhole 2a07:5741:0:99d:86c1:8200:52e1:3de9/128
+ip route add blackhole 181.209.125.126/32
+ip -6 route add blackhole 2a07:5741:0:1442:ec3d:f74c:656b:7c18/128
+ip -6 route add blackhole 2a07:5741:0:1444:5665:708c:1482:b906/128
+ip route add blackhole 38.56.70.75/32
+ip route add blackhole 3.35.195.58/32
+ip route add blackhole 103.156.15.68/32
+ip -6 route add blackhole 2a02:c206:2079:8668:119e:53b0:6ebf:4257/128
+ip -6 route add blackhole 2a07:5741:0:150f:43fb:c05f:4e5f:17d0/128
+ip -6 route add blackhole 2a07:5741:0:1442:cd33:e047:5548:2d4e/128
+ip -6 route add blackhole 2a02:c206:2079:8668:512c:ff42:e417:d3b/128
+ip route add blackhole 104.227.65.182/32
+ip route add blackhole 154.201.43.102/32
+ip route add blackhole 41.89.96.16/32
+ip route add blackhole 200.41.12.246/32
+ip route add blackhole 192.177.191.140/32
+ip route add blackhole 203.190.43.206/32
+ip route add blackhole 44.234.120.121/32
+ip route add blackhole 156.227.14.2/32
+ip route add blackhole 103.172.70.140/32
+ip route add blackhole 24.106.221.230/32
+ip route add blackhole 189.14.12.227/32
+ip route add blackhole 123.182.58.165/32
+ip route add blackhole 203.189.105.203/32
+ip -6 route add blackhole 2a02:c206:2079:8668:8eb:7c0a:56ef:37f/128
+ip route add blackhole 36.6.145.184/32
+ip -6 route add blackhole 2a02:c206:2079:8668:8db0:54c2:72f9:b8d1/128
+ip -6 route add blackhole 2a02:c206:2079:8668:8aa9:212a:8897:5b7c/128
+ip route add blackhole 192.177.188.135/32
+ip route add blackhole 104.227.159.102/32
+ip route add blackhole 145.255.30.241/32
+ip route add blackhole 117.57.92.13/32
+ip -6 route add blackhole 2a02:c206:2079:8668:69a5:eaa7:2039:a736/128
+ip route add blackhole 156.239.59.119/32
+ip route add blackhole 117.69.233.217/32
+ip route add blackhole 202.137.134.160/32
+ip -6 route add blackhole 2a02:c206:2079:8668:ac49:98a1:39d2:bfc2/128
+ip route add blackhole 13.37.108.15/32
+ip route add blackhole 166.88.122.60/32
+ip route add blackhole 122.52.196.36/32
+ip route add blackhole 209.127.31.193/32
+ip -6 route add blackhole 2a02:c206:2079:8668:d198:9cec:4ef:db12/128
+ip -6 route add blackhole 2a02:c206:2079:8668:1321:1cc9:6938:78d9/128
+ip -6 route add blackhole 2a07:5741:0:150f:7cea:dbf4:79a8:bf0b/128
+ip -6 route add blackhole 2a07:5741:0:1442:a8a8:3ca0:8042:d3f2/128
+ip -6 route add blackhole 2a02:c206:2079:8668:4b9d:d779:20ed:cd24/128
+ip route add blackhole 103.105.76.182/32
+ip route add blackhole 169.255.4.55/32
+ip -6 route add blackhole 2a07:5741:0:150f:4428:d80:891e:93fa/128
+ip -6 route add blackhole 2600:70ff:b979:fb44:36f7:f86a:a25b:42d6/128
+ip -6 route add blackhole 2a02:c206:2079:8668:3ee2:9e44:abbb:71e/128
+ip route add blackhole 64.227.26.72/32
+ip route add blackhole 3.39.246.228/32
+ip -6 route add blackhole 2a02:c206:2079:8668:3565:241c:2419:ccab/128
+ip route add blackhole 31.197.253.254/32
+ip route add blackhole 41.210.138.242/32
+ip route add blackhole 117.69.232.119/32
+ip route add blackhole 117.57.92.230/32
+ip route add blackhole 213.6.36.2/32
+ip route add blackhole 139.255.109.27/32
+ip -6 route add blackhole 2a07:5741:0:1442:b0ef:3106:e52d:913c/128
+ip route add blackhole 103.22.99.233/32
+ip -6 route add blackhole 2a02:c206:2079:8668:79c4:abe2:b17b:bc57/128
+ip route add blackhole 123.182.58.194/32
+ip -6 route add blackhole 2a02:c206:2079:8668:b37c:5519:4c61:33f8/128
+ip route add blackhole 85.133.151.2/32
+ip route add blackhole 45.134.142.198/32
+ip route add blackhole 23.95.183.2/32
+ip route add blackhole 103.29.91.38/32
+ip -6 route add blackhole 2a02:c206:2079:8668:e497:845c:f4a8:7d70/128
+ip -6 route add blackhole 2a07:5741:0:150f:4058:134f:37b2:ea59/128
+ip route add blackhole 51.68.220.201/32
+ip -6 route add blackhole 2a07:5741:0:1510:d26d:9fc4:a718:1159/128
+ip -6 route add blackhole 2a02:c206:2079:8668:24c6:17c0:e810:cbb9/128
+ip route add blackhole 103.117.31.151/32
+ip route add blackhole 35.176.105.103/32
+ip -6 route add blackhole 2a02:c206:2079:8668:bcbf:f17d:5063:8624/128
+ip -6 route add blackhole 2001:470:701e:ee75:143e:b71a:825e:ac/128
+ip route add blackhole 179.1.88.28/32
+ip -6 route add blackhole 2a02:c206:2079:8668:6d66:b30e:f64c:12e/128
+ip route add blackhole 117.57.92.229/32
+ip route add blackhole 3.35.78.173/32
+ip route add blackhole 177.105.232.114/32
+ip route add blackhole 209.127.148.158/32
+ip route add blackhole 186.121.235.222/32
+ip -6 route add blackhole 2a07:5741:0:1442:515e:7f10:547c:ff11/128
+ip route add blackhole 98.10.64.51/32
+ip -6 route add blackhole 2a02:c206:2079:8668:6ec9:f6e5:4e19:a40d/128
+ip -6 route add blackhole 2a05:dfc7:413a::1/128
+ip -6 route add blackhole 2a07:5741:0:7bc:2d20:7a21:db51:c2b7/128
+ip route add blackhole 23.95.183.110/32
+ip route add blackhole 35.159.33.65/32
+ip -6 route add blackhole 2a07:5741:0:150d:56ac:c46e:86e1:81c/128
+ip -6 route add blackhole 2a02:c206:2079:8668:c2a2:1cfc:de4:6566/128
+ip -6 route add blackhole 2a02:c206:2079:8668:ec79:1438:de0b:5918/128
+ip -6 route add blackhole 2a02:c206:2079:8668:fed2:fedc:92df:5480/128
+ip route add blackhole 103.62.153.212/32
+ip route add blackhole 154.79.245.166/32
+ip route add blackhole 23.84.21.15/32
+ip route add blackhole 156.227.14.62/32
+ip -6 route add blackhole 2a02:c206:2079:8668:9d1:810f:4ae0:fbe6/128
+ip route add blackhole 58.147.171.106/32
+ip -6 route add blackhole 2a02:c206:2079:8668:db7d:7283:a517:bba7/128
+ip -6 route add blackhole 2a02:c206:2079:8668:c335:1458:cbe5:ffcd/128
+ip -6 route add blackhole 2a02:c206:2079:8668:45a:377d:227c:43fa/128
+ip -6 route add blackhole 2a02:c206:2079:8668:2e65:1706:6e34:93e0/128
+ip route add blackhole 103.154.91.182/32
+ip route add blackhole 23.95.183.62/32
+ip route add blackhole 38.15.148.242/32
+ip route add blackhole 177.154.33.102/32
+ip -6 route add blackhole 2804:c2c:cf03:8e72:5ef3:fcff:fe49:ee82/128
+ip route add blackhole 27.147.174.107/32
+ip route add blackhole 154.201.47.83/32
+ip -6 route add blackhole 2a07:5741:0:150f:33e:35cd:5df3:c939/128
+ip route add blackhole 131.147.148.163/32
+ip -6 route add blackhole 2a02:c206:2079:8668:4a8b:b31a:299e:fc11/128
+ip route add blackhole 79.111.13.155/32
+ip route add blackhole 124.158.175.26/32
+ip route add blackhole 8.242.205.41/32
+ip -6 route add blackhole 2a02:c206:2079:8668:a7f1:ffa3:5b53:d3d6/128
+ip route add blackhole 175.106.10.164/32
+ip route add blackhole 38.15.148.138/32
+ip -6 route add blackhole 2a07:5741:0:1442:30f2:a282:8ea0:9ff/128
+ip route add blackhole 114.255.132.60/32
+ip route add blackhole 192.177.142.193/32
+ip route add blackhole 190.242.157.234/32
+ip route add blackhole 192.177.140.50/32
+ip route add blackhole 181.143.106.162/32
+ip -6 route add blackhole 2a07:5741:0:7c5:c3c7:777f:18ec:7fea/128
+ip -6 route add blackhole 2a02:c206:2079:8668:11f8:f3:e4ed:16c0/128
+ip route add blackhole 45.70.238.195/32
